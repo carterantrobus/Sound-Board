@@ -419,9 +419,7 @@ n
               updateDisplay: this.displayClipName
             }), React.createElement("div", {
               className: "logo"
-            }, React.createElement("div", {
-              className: "inner-logo "
-            }, String.fromCharCode(160)), React.createElement("img", {
+            }, React.createElement("img", {
               src: "./images/logo.png"
             })), React.createElement("div", {
               className: "controls-container"
