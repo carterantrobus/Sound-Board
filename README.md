@@ -1,7 +1,7 @@
 # Sound Board
 ### Welcome to my Sound Board source code!
 
-![](DEMO.mp4)
+https://github.com/carterantrobus/Sound-Board/assets/113034271/e67e7388-1f93-41cb-a391-5074f4f3bcf2
 
 #### This project was created with:
 
